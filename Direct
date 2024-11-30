@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,vmnas.top
 DOMAIN,pve.newcodegpt.top
 DOMAIN,s1.bfzycdn.com
 DOMAIN,pan.v1.mk
-DOMAIN,111.119.214.21/32,no-resolve
+IP-CIDR,111.119.214.21/32,no-resolve
