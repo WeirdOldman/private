@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,newcodegpt.top
 DOMAIN,s1.bfzycdn.com
 DOMAIN,pan.v1.mk
 IP-CIDR,111.119.214.21/32,no-resolve
+DOMAIN,v.recipes/mq/(providers)
+DOMAIN,https://v.recipes/dns64
