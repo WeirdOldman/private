@@ -1,8 +1,8 @@
 DOMAIN-SUFFIX,vmnas.top
 DOMAIN-SUFFIX,newcodegpt.top
-DOMAIN,cdk.hybgzs.com
+DOMAIN-SUFFIX,hybgzs.com
 DOMAIN,api.easysub.cc
 IP-CIDR,111.119.214.21/32,no-resolve
-DOMAIN,x666.me
+DOMAIN-SUFFIX,x666.me
 DOMAIN,app-measurement.com
 DOMAIN,muyuan.do
